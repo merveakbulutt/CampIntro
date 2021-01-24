@@ -3,23 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampIntro", "CampIntro\CampIntro.csproj", "{5557E2D4-DC7A-45BA-B0F3-1C81F2162447}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampIntro", "CampIntro\CampIntro.csproj", "{5557E2D4-DC7A-45BA-B0F3-1C81F2162447}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeğerVeReferansTipler", "DeğerVeReferansTipler\DeğerVeReferansTipler.csproj", "{F723F72B-7F29-4060-BB74-07D9FF6C9553}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeğerVeReferansTipler", "DeğerVeReferansTipler\DeğerVeReferansTipler.csproj", "{F723F72B-7F29-4060-BB74-07D9FF6C9553}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{09836A96-AF92-45F2-920B-466DE79A2731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{09836A96-AF92-45F2-920B-466DE79A2731}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{B48B854F-D693-4A79-B61C-121671876EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{B48B854F-D693-4A79-B61C-121671876EFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{CC8BA156-D37C-4920-B503-1F0E9AA56055}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{CC8BA156-D37C-4920-B503-1F0E9AA56055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{7159E26A-DC3F-4E30-B000-369E3D789890}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{7159E26A-DC3F-4E30-B000-369E3D789890}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{BF85C013-D225-4967-BF4B-6A84273A75A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{BF85C013-D225-4967-BF4B-6A84273A75A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{96907672-2FF0-4AC5-8D53-AA19903B2BC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{96907672-2FF0-4AC5-8D53-AA19903B2BC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP1", "OPP1\OPP1.csproj", "{7DC44C5D-9135-4C6C-80DE-9F2A7D9C3181}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OPP1", "OPP1\OPP1.csproj", "{7DC44C5D-9135-4C6C-80DE-9F2A7D9C3181}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{31B5A7FE-BEC2-4CC1-9297-DF298C998FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{477CF60D-0852-43A2-9357-31C4591ECBC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{7DC44C5D-9135-4C6C-80DE-9F2A7D9C3181}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DC44C5D-9135-4C6C-80DE-9F2A7D9C3181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DC44C5D-9135-4C6C-80DE-9F2A7D9C3181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B5A7FE-BEC2-4CC1-9297-DF298C998FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B5A7FE-BEC2-4CC1-9297-DF298C998FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B5A7FE-BEC2-4CC1-9297-DF298C998FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B5A7FE-BEC2-4CC1-9297-DF298C998FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477CF60D-0852-43A2-9357-31C4591ECBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477CF60D-0852-43A2-9357-31C4591ECBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477CF60D-0852-43A2-9357-31C4591ECBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477CF60D-0852-43A2-9357-31C4591ECBC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
